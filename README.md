@@ -1,4 +1,5 @@
 Estrutura Sequencial 7
+
 Programação de Soluções Computacionais
 
 Nome: Vinícius Gustavo Tachetti Escudeiro
